@@ -1,0 +1,338 @@
+<!doctype html>
+
+<html lang="en">
+
+
+
+<head>
+
+
+
+    <!-- Google Font -->
+
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,700" rel="stylesheet">
+
+
+
+    <!-- Bootstrap CSS -->
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+
+
+    <!-- Custom CSS -->
+
+    <link rel="stylesheet" href="index.css">
+
+
+
+    <title>HOMIES</title>
+
+</head>
+
+
+
+<body>
+
+    <nav id="mainNavbar" class="navbar navbar-dark  navbar-expand-md  fixed-top pt-0">
+
+        <a href="#" class="navbar-brand">HOMIES</a>
+
+
+
+        
+
+    </nav>
+
+    <section class="container-fluid px-0 bg-white">
+
+        <div class="row">
+
+            <div class="col">
+
+                <img class="img-fluid" src="residential-cleaning-services.jpg" height="500px" alt="">
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="container-fluid px-0 ">
+
+        <div class="row align-items-center">
+
+            <div class="col-md-6 order-2 order-md-1 p-2">
+
+                <img class="img-fluid" src="service_home_cleaning.jpg" width="700px" alt="">
+
+            </div>
+
+            <div class="col-md-6 text-center order-1 order-md-2">
+
+                <div class="row justify-content-center">
+
+                    <div class="col-10 col-lg-8">
+
+                        <h2>HOME CLEANING</h2>
+
+                        <p>
+
+                            HOME CLEANING has been connecting people to professional house cleaning and other home
+
+                            services since 2012. In our short history, house cleaning professionals using the HOME
+
+                            CLEANING platform have helped clean millions of homes and apartments in NYC, SF, Boston,
+
+                            Chicago, Los Angeles, London, and beyond. HOME CLEANING is your one-stop shop for whenever
+
+                            you need professional house cleaning help.
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="row align-items-center">
+
+            <div class="col-md-6 text-center ">
+
+                <div class="row justify-content-center">
+
+                    <div class="col-10 col-lg-8">
+
+                        <h2>OFFICE CLEANING</h2>
+
+                        <p>
+
+                            Finding the best office cleaning services in your area doesn't have to be a chore when you
+
+                            use HOMIES. HOMIES has been connecting customers with office cleaning professionals for
+
+                            years, ensuring that your professional space shines and impresses your clients and employees
+
+                            alike. Whether you run a small business or are part of a large corporation, ensuring that
+
+                            your offices are kept clean and tidy helps to create positive first impressions and improves
+
+                            employee morale. From ensuring that the coffee cups are washed and dried to cleaning the
+
+                            bathrooms, HOMIES can connect you with office cleaning services to handle all your cleaning
+
+                            tasks, large and small.
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-md-6 ">
+
+                <img class="img-fluid" src="service_office_cleaning.jpg" width="700px" alt="">
+
+            </div>
+
+        </div>
+
+        </div>
+
+        <div class="row align-items-center">
+
+            <div class="col-md-6 order-2 order-md-1 p-2">
+
+                <img class="img-fluid" src="service_toilet_trouble.jpg" width="700px" alt="">
+
+            </div>
+
+            <div class="col-md-6 text-center order-1 order-md-2">
+
+                <div class="row justify-content-center">
+
+                    <div class="col-10 col-lg-8">
+
+                        <h2>TOILET TROUBLE</h2>
+
+                        <p>
+
+                            These homiemen are experts at troubleshooting all sorts of toilet issues. Whether you need
+
+                            flush repair or a new toilet installed completely, we have you covered. Every handyman is
+
+                            vetted and will arrive prepared with the proper tools and supplies to get your job done
+
+                            right the first time.
+
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+
+    <div id="serLink" class="container-fluid px-0 pt-2 font-weight-bold ">
+
+        <div class="row">
+
+            <div class="col text-center text-danger ">
+
+                <a href="#" class="newSesion">See more Services -</a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div id="super" class="container-fluid pb-1 pt-5 px-0">
+
+        <div class="row">
+
+            <div class="col">
+
+                <h1>SERVICES AVAILABLE ACROSS WORLD.</h1>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <section class="container-fluid p-0">
+
+        <div id="gmap" class="row align-items-center text-center">
+
+            <div id="gmap0" class="col-md-8 ">
+
+                <img class="img-fluid" src="Networking.2021.-2-696x464.jpg" alt="" class="world">
+
+            </div>
+
+            <div id="gmap1" class="col-md-4 ">
+
+                <div class="row text-md-left ">
+
+                    <div class="col">
+
+                        <h1>100</h1>
+
+                        <p>locations</p>
+
+                    </div>
+
+                </div>
+
+                <div class="row text-md-left">
+
+                    <div class="col">
+
+                        <h1>75</h1>
+
+                        <p>countries</p>
+
+                    </div>
+
+                </div>
+
+                <div class="row text-md-left">
+
+                    <div class="col">
+
+                        <h1>1 Million</h1>
+
+                        <p>customer</p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <div id="serLink1" class="container-fluid px-0 pt-2 font-weight-bold ">
+
+        <div class="row">
+
+            <div class="col text-center text-danger ">
+
+                <a href="#" class="newSesion">Get your plan now:</a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+
+
+
+</html>
+body {
+    background: #eadf96;
+    font-family: 'Nunito', sans-serif;
+    justify-content: center;
+}
+
+#mainNavbar .navbar-brand {
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-inline-end: auto;
+}
+
+#mainNavbar .nav-link {
+    justify-content: flex-end;
+    color: rgb(8, 248, 48);
+}
+
+#super {
+    height: 100px;
+}
+
+#super h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #0b0601f1;
+}
+
+#serLink {
+    height: 20px;
+}
+
+#gmap h1 {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 80px;
+}
+
+#gmap p {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 50px;
+
+}
+
+#servLink1 .col {
+    height: 50px;
+}
