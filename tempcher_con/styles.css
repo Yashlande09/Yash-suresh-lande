@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+
+* {
+    margin: 0;
+    
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mulish", sans-serif;
+}
+
+body {
+    
+    width: 100vw;
+    height: 50vh;
+    display: grid;
+    background-size:cover;
+    place-items: center;
+    background-image:url("download.jpeg") ;
+  
+}
+
+form {
+    background-color: (rgb(192, 77, 192));
+    padding: 60px;
+    width: 50%;
+    
+    opacity: 1;
+    border-radius: 0%;
+    margin: 100px 200px;
+    border: 2px solid black;
+    text-align: center;
+    box-shadow: 0 10px 10px 6px rgbrgb(137, 39, 39);
+}
+
+#tempCalc label
+{
+  font-size: 30px;
+  
+}
+.cal{
+    padding-right: 1%;
+}
+
+#temp
+{
+    border: none;
+    padding: 10px;
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-right: 6px;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px 6px rgb(6, 66, 66);
+}
+#temp_diff
+{
+    border: none;
+    height: 40px;
+    font-size: 15px;
+    margin-top: 20px;
+    vertical-align: top;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px 6px rgb(6, 66, 66);
+}
+
+[type="submit"]
+{
+    height: 35px;
+    cursor: pointer;
+    margin: 20px;
+    width: 100px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: black;
+    color: white;
+    box-shadow: 0 10px 6px -6px rgb(62, 48, 48);
+    
+}
+[type="submit"]:hover{
+    transform: scale(1.1);
+    transition-duration: .7s;
+    opacity: .8;
+}
+
+#resultContainer
+{
+  font-size: 30px;
+  color:rgb(31, 135, 153);
+}
