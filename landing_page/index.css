@@ -1,0 +1,49 @@
+body {
+    background: #f3d2bd;
+    font-family: 'Nunito', sans-serif;
+    justify-content: center;
+}
+
+#mainNavbar .navbar-brand {
+    color: rgb(255, 0, 0);
+    font-size: 2rem;
+    font-weight: bold;
+    margin-inline-end: auto;
+}
+
+#mainNavbar .nav-link {
+    justify-content: flex-end;
+    color: rgb(238, 50, 37);
+}
+
+#super {
+    height: 100px;
+}
+
+#super h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #0b0601f1;
+}
+
+#serLink {
+    height: 20px;
+}
+
+#gmap h1 {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 80px;
+}
+
+#gmap p {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 50px;
+
+}
+
+#servLink1 .col {
+    height: 50px;
+}
